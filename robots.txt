@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Allow: /#produtos
+Allow: /#servicos
+Allow: /#sobre
+Allow: /#contato
+
+Disallow: 
